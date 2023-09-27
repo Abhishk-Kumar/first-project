@@ -1,2 +1,1 @@
-# first-project
-It is my first repository
+Author= Abhishek-Kumar
